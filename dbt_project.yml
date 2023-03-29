@@ -1,0 +1,4 @@
+name: postgres_dbt
+version: '1.0'
+profile: default
+source-paths: ["models"]
